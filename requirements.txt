@@ -16,3 +16,4 @@ seaborn
 tensorboardX
 tensorboard
 gym
+opencv-python
